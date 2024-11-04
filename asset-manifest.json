@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/phonemes/static/css/main.086b9e36.css",
+    "main.js": "/phonemes/static/js/main.1fae68f3.js",
+    "index.html": "/phonemes/index.html",
+    "main.086b9e36.css.map": "/phonemes/static/css/main.086b9e36.css.map",
+    "main.1fae68f3.js.map": "/phonemes/static/js/main.1fae68f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.086b9e36.css",
+    "static/js/main.1fae68f3.js"
+  ]
+}
