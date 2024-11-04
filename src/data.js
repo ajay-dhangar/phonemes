@@ -1,4 +1,3 @@
-// src/data.js
 export const phonemeData = {
     words: {
       at: [
