@@ -1,0 +1,44 @@
+{
+    "phoneme": [
+        {
+            "id": 1,
+            "name": "at"
+        },
+        {
+            "id": 119,
+            "name": "atch"
+        },
+        {
+            "id": 120,
+            "name": "atch"
+        },
+        {
+            "id": 147,
+            "name": "ath"
+        },
+        {
+            "id": 199,
+            "name": "ate"
+        },
+        {
+            "id": 330,
+            "name": "oat"
+        },
+        {
+            "id": 340,
+            "name": "oath"
+        },
+        {
+            "id": 358,
+            "name": "eat"
+        },
+        {
+            "id": 372,
+            "name": "treat"
+        },
+        {
+            "id": 373,
+            "name": "eat"
+        }
+    ]
+}
